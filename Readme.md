@@ -256,17 +256,5 @@ Cluster
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-**Author**: Shaikh Mohammed Saud
-**Email**: shaikhmohdsaud2004@gmail.com
-**LinkedIn**: [Saudshaikkhh](https://www.linkedin.com/in/saudshaikkhh/)
-**Project Link**: [https://github.com/saudshaikkhh/customer-segmentation-analysis](https://github.com/saudshaikkhh/customer-segmentation-analysis)
-
----
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
