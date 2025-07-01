@@ -262,9 +262,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Author**: [Shaikh Mohammed Saud]
-**Email**: [shaikhmohdsaud2004@gmail.com]
-**LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/saudshaikkhh/)]
+**Author**: Shaikh Mohammed Saud
+**Email**: shaikhmohdsaud2004@gmail.com
+**LinkedIn**: [Saudshaikkhh](https://www.linkedin.com/in/saudshaikkhh/)
 **Project Link**: [https://github.com/saudshaikkhh/customer-segmentation-analysis](https://github.com/saudshaikkhh/customer-segmentation-analysis)
 
 ---
