@@ -2,20 +2,6 @@
 
 A comprehensive machine learning project for customer segmentation using K-Means clustering on iFood customer data. This project provides end-to-end analysis from data preparation to model deployment, enabling businesses to understand customer behavior and create targeted marketing strategies.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Requirements](#data-requirements)
-- [Model Details](#model-details)
-- [Results](#results)
-- [File Descriptions](#file-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project performs customer segmentation analysis using machine learning clustering techniques. By analyzing customer spending patterns, income levels, and relationship status, the model identifies distinct customer segments that can be used for:
